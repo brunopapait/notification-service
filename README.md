@@ -6,7 +6,7 @@ Este é um micro serviço de notificações criado no evento ignitelab-node pela
 
 ## Objetivo
 
-O objetivo geral desse projeto é a o desenvolvimento de um micro serviço voltado para a area de notificações.
+O objetivo geral desse projeto é a o desenvolvimento de um micro serviço voltado para a área de notificações.
 
 ## Tecnologias utilizadas
 
@@ -16,7 +16,7 @@ O objetivo geral desse projeto é a o desenvolvimento de um micro serviço volta
 - Prisma;
 - Jest;
 
-### Foram utilizados também alguns design patterns utilizados na area de programação, como:
+### Foram utilizados também alguns design patterns utilizados na área de programação, como:
 
 - Clean architecture;
 - Clean code;
